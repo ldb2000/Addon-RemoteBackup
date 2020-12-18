@@ -1,11 +1,11 @@
 {
-  "name": "Remote Backup",
+  "name": "Remote Backup Edge",
   "version": "4.3.6",
   "slug": "remote_backup",
   "description": "Automatically create and backup HA snapshots using SCP",
-  "url": "https://github.com/ikifar2012/remote-backup-addon/blob/master/README.md",
+  "url": "https://github.com/ldb2000/Addon-RemoteBackup/blob/master/README.md",
   "startup": "once",
-  "image": "ikifar/remote-backup-{arch}",
+  "image": "ldb2000/remotebackup-{arch}",
   "boot": "manual",
   "arch": [
     "aarch64",
