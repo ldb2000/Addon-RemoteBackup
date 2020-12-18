@@ -5,7 +5,6 @@
   "description": "Automatically create and backup HA snapshots using SCP",
   "url": "https://github.com/ldb2000/Addon-RemoteBackup/blob/master/README.md",
   "startup": "once",
-  "image": "ldb2000/remotebackup-{arch}",
   "boot": "manual",
   "arch": [
     "aarch64",
